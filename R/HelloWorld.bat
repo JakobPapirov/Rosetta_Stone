@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-4.1.2\bin\R.exe" CMD BATCH "D:\Jakob\Dropbox\Fritid\Projekt\WebDev\rosetta stone\R\HelloWorld.R"
