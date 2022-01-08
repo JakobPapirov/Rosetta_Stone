@@ -10,3 +10,6 @@ The user is asked to input one number, then another and finally is asked to sum 
 If the user answers correctly, they'll be greeted by a "well done"-message. If not correct, then a "Incorrect"-message will display as well as the correct answer.
 
 # When time permits I'll use this in a WebDev project. 
+
+# Quite interesting
+The way that GH calculates the languages percentages for a repo https://softwareengineering.stackexchange.com/questions/156029/how-does-github-calculate-language-percentage-in-a-repo
